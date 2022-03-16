@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "country-api",
+			"path": ".."
+		}
+	],
+	"settings": {},
+	"launch": {
+		"configurations": [
+			{
+				"name": "Launch Microsoft Edge and open the Edge DevTools",
+				"request": "launch",
+				"type": "vscode-edge-devtools.debug",
+				"url": ""
+			},
+			{
+				"name": "Launch Microsoft Edge and open the Edge DevTools",
+				"request": "launch",
+				"type": "vscode-edge-devtools.debug",
+				"url": ""
+			}
+		]
+	}
+}
